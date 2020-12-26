@@ -3,7 +3,7 @@
 
 #### Note:
 * The .ui files were created in Qt designer to add elements and their styling. 
-* The bakcend functioning was defined in Python (main.py)
+* The backend functioning was defined in Python (main.py)
 
 Login             |  Signup
 :----------------:|:----------------:
